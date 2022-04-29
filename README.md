@@ -1,4 +1,4 @@
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/agboola-vincent]
+
 
 Star Rating Using Js
 ============
